@@ -1,0 +1,3 @@
+﻿  Injection.cpp
+C:\Users\INSECT\source\repos\Manual Mapper DLL\Manual Mapper DLL\Injection.cpp(99,40): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'DWORD' can equal the given constant
+  Manual Mapper DLL.vcxproj -> C:\Users\INSECT\source\repos\Manual Mapper DLL\x64\Debug\Manual Mapper DLL.exe
